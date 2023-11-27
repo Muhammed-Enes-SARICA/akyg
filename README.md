@@ -1,4 +1,6 @@
 # akyg
 
-Muhammed Enes Sarıca ubuntu değişiklik denemesi
+##Muhammed Enes Sarıca
+
+#ubuntu değişiklik denemesi
 
